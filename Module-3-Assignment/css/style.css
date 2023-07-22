@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+#header-nav{
+    background-color: black;
+    
+}
+#header-nav h1{
+    margin: 0;
+    padding: 0;
+}
+#header-nav a{
+    color:white;
+    font-size: 20px;
+}
+#header-nav a:hover{
+    background-color: orangered;
+}
+body{
+    background-color: orangered;
+}
+
+.navbar-toggle{
+    border-color: white;
+}
+.navbar-toggle span{
+    background-color: white;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+#para{
+    background-color: white;
+    margin-bottom: 20px;
+}
+#myNavbar{
+    text-align: center;
+}
